@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-vs-glassmatte"
+description = "Glass-aware 16-bit RGBA hero images for bottles: cylindrical label wrap and lock, plate alignment, glass band masking and difference matting."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/andrewclass1/comfyui-vs-glassmatte"
+
+[tool.comfy]
+PublisherId = "viewsource"
+DisplayName = "VS Glass Matte"
+Icon = "https://raw.githubusercontent.com/andrewclass1/comfyui-vs-glassmatte/main/assets/icon.png"

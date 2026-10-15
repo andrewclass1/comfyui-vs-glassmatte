@@ -4,7 +4,7 @@ ComfyUI nodes by View Source for making clean, 16-bit RGBA hero images of glass 
 
 ## Install
 
-ComfyUI-Manager → **Install via Git URL** → `https://github.com/<owner>/comfyui-vs-glassmatte`, then restart.
+ComfyUI-Manager → search **VS Glass Matte** (Comfy Registry), install, restart.
 Or clone into `ComfyUI/custom_nodes/`.
 
 ## Nodes
@@ -46,3 +46,7 @@ Wrap defaults are x as a fraction of canvas width and y as a fraction of canvas 
 | Align | `status: OK` (bottle width within 1.5% of the reference) |
 | Glass band | `mode_used: auto` |
 | Drift | `status: PASS` |
+
+## License
+
+MIT, © 2026 View Source LLC
